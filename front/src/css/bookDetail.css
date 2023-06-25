@@ -1,0 +1,57 @@
+.title{
+    margin-top: 3%;
+    font-style: normal;
+}
+
+.buybutton{
+    font-size: 15px;
+    width: auto;
+    height: auto;
+}
+
+.bookitem{
+    margin-top: 5%;
+}
+.search {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.search input[type="text"] {
+    border: 2px solid #7BA7AB;
+    border-radius: 5px;
+    background: #F9F0DA;
+    color: #9E9C9C;
+}
+
+.search button{
+    top: 0;
+    right: 0;
+    background: #7BA7AB;
+    border-radius: 0 5px 5px 0;
+}
+
+.search button:before{
+    content: "\f002";
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: #F9F0DA;
+}
+
+.Form{
+    margin-top: 50px;
+}
+
+.booktable{
+    margin-top: 3%;
+}
+
+.searchbar{
+    margin-top: 5%;
+}
+
+.statistics{
+    margin-top: 3%;
+    font-size: 15px;
+}
